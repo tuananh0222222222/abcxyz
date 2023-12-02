@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "om8dV0dbtwgYJv9jH00Cm7DPiMiRuorphpPyoUFtl5U=",
+  "Source": "demodockerv2.webapi",
+  "BasePath": "_content/demodockerv2.webapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

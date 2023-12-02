@@ -1,0 +1,19 @@
+2023-11-29 20:45:03.428 +07:00 [INF] Now listening on: https://localhost:7170
+2023-11-29 20:45:03.473 +07:00 [INF] Now listening on: http://localhost:5121
+2023-11-29 20:45:03.478 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-11-29 20:45:03.479 +07:00 [INF] Hosting environment: Development
+2023-11-29 20:45:03.481 +07:00 [INF] Content root path: C:\Users\tuan anh\Máy tính\c#\demodockerv2\src\demodockerv2.webapi
+2023-11-29 20:45:15.369 +07:00 [INF] Application is shutting down...
+2023-11-29 20:45:34.173 +07:00 [INF] Now listening on: https://localhost:7170
+2023-11-29 20:45:34.233 +07:00 [INF] Now listening on: http://localhost:5121
+2023-11-29 20:45:34.238 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-11-29 20:45:34.240 +07:00 [INF] Hosting environment: Development
+2023-11-29 20:45:34.243 +07:00 [INF] Content root path: C:\Users\tuan anh\Máy tính\c#\demodockerv2\src\demodockerv2.webapi
+2023-11-29 20:45:37.854 +07:00 [INF] Application is shutting down...
+2023-11-29 20:45:55.676 +07:00 [INF] Starting web host
+2023-11-29 20:45:56.009 +07:00 [INF] Now listening on: https://localhost:7170
+2023-11-29 20:45:56.018 +07:00 [INF] Now listening on: http://localhost:5121
+2023-11-29 20:45:56.022 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-11-29 20:45:56.023 +07:00 [INF] Hosting environment: Development
+2023-11-29 20:45:56.025 +07:00 [INF] Content root path: C:\Users\tuan anh\Máy tính\c#\demodockerv2\src\demodockerv2.webapi
+2023-11-29 20:46:01.114 +07:00 [INF] Application is shutting down...

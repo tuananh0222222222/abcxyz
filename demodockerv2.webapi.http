@@ -1,0 +1,10 @@
+@demodockerv2.webapi_HostAddress = http://localhost:5121
+
+GET {{demodockerv2.webapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+
+###
+
+GET {{demodockerv2.webapi_HostAddress}}/student/
+Accept: application/json
